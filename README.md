@@ -1,4 +1,5 @@
 # Simplified-Digital-Clock-Using-Verilog-HDL
+## Table Of Content
 
 This is an experiment course, called "Electronic Technology".  
 This is a big assignment of FPGA.  
