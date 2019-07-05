@@ -1,6 +1,6 @@
 # Simplified-Digital-Clock-Using-Verilog-HDL
 ## Table Of Content
-[toc]
+[TOC]
 - [heihei](#123)
 - [123](#what's-included)
 ### hhh
